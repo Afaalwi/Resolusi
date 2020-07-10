@@ -1,6 +1,6 @@
 M. Afakhan Saifudin alwi
 belajar git
 flutter 
-php
 js
 design
+php ne ngko ndisek:v
